@@ -1,0 +1,9 @@
+C:\Users\Rajkumar\source\repos\HealthMonitor\HealthMonitor.DataAccess\bin\Debug\netcoreapp3.1\HealthMonitor.DataAccess.deps.json
+C:\Users\Rajkumar\source\repos\HealthMonitor\HealthMonitor.DataAccess\bin\Debug\netcoreapp3.1\HealthMonitor.DataAccess.dll
+C:\Users\Rajkumar\source\repos\HealthMonitor\HealthMonitor.DataAccess\bin\Debug\netcoreapp3.1\HealthMonitor.DataAccess.pdb
+C:\Users\Rajkumar\source\repos\HealthMonitor\HealthMonitor.DataAccess\obj\Debug\netcoreapp3.1\HealthMonitor.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Rajkumar\source\repos\HealthMonitor\HealthMonitor.DataAccess\obj\Debug\netcoreapp3.1\HealthMonitor.DataAccess.AssemblyInfo.cs
+C:\Users\Rajkumar\source\repos\HealthMonitor\HealthMonitor.DataAccess\obj\Debug\netcoreapp3.1\HealthMonitor.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Rajkumar\source\repos\HealthMonitor\HealthMonitor.DataAccess\obj\Debug\netcoreapp3.1\HealthMonitor.DataAccess.dll
+C:\Users\Rajkumar\source\repos\HealthMonitor\HealthMonitor.DataAccess\obj\Debug\netcoreapp3.1\HealthMonitor.DataAccess.pdb
+C:\Users\Rajkumar\source\repos\HealthMonitor\HealthMonitor.DataAccess\obj\Debug\netcoreapp3.1\HealthMonitor.DataAccess.csprojAssemblyReference.cache

@@ -1,0 +1,29 @@
+C:\Users\Rajkumar\source\repos\HealthMonitor\HealthMonitor.DataAccess\obj\Debug\net5.0\HealthMonitor.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rajkumar\source\repos\HealthMonitor\HealthMonitor.DataAccess\obj\Debug\net5.0\HealthMonitor.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Rajkumar\source\repos\HealthMonitor\HealthMonitor.DataAccess\obj\Debug\net5.0\HealthMonitor.DataAccess.AssemblyInfo.cs
+C:\Users\Rajkumar\source\repos\HealthMonitor\HealthMonitor.DataAccess\obj\Debug\net5.0\HealthMonitor.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Rajkumar\source\repos\HealthMonitor\HealthMonitor.DataAccess\bin\Debug\net5.0\HealthMonitor.DataAccess.deps.json
+C:\Users\Rajkumar\source\repos\HealthMonitor\HealthMonitor.DataAccess\bin\Debug\net5.0\HealthMonitor.DataAccess.runtimeconfig.json
+C:\Users\Rajkumar\source\repos\HealthMonitor\HealthMonitor.DataAccess\bin\Debug\net5.0\HealthMonitor.DataAccess.runtimeconfig.dev.json
+C:\Users\Rajkumar\source\repos\HealthMonitor\HealthMonitor.DataAccess\bin\Debug\net5.0\HealthMonitor.DataAccess.dll
+C:\Users\Rajkumar\source\repos\HealthMonitor\HealthMonitor.DataAccess\bin\Debug\net5.0\ref\HealthMonitor.DataAccess.dll
+C:\Users\Rajkumar\source\repos\HealthMonitor\HealthMonitor.DataAccess\bin\Debug\net5.0\HealthMonitor.DataAccess.pdb
+C:\Users\Rajkumar\source\repos\HealthMonitor\HealthMonitor.DataAccess\obj\Debug\net5.0\HealthMonitor.DataAccess.dll
+C:\Users\Rajkumar\source\repos\HealthMonitor\HealthMonitor.DataAccess\obj\Debug\net5.0\ref\HealthMonitor.DataAccess.dll
+C:\Users\Rajkumar\source\repos\HealthMonitor\HealthMonitor.DataAccess\obj\Debug\net5.0\HealthMonitor.DataAccess.pdb
+C:\Users\Rajkumar\source\repos\HealthMonitor\HealthMonitor.DataAccess\obj\Debug\net5.0\HealthMonitor.DataAccess.genruntimeconfig.cache
+D:\arju studies\solaritis\HealthMonitor\HealthMonitor.DataAccess\bin\Debug\net5.0\HealthMonitor.DataAccess.deps.json
+D:\arju studies\solaritis\HealthMonitor\HealthMonitor.DataAccess\bin\Debug\net5.0\HealthMonitor.DataAccess.runtimeconfig.json
+D:\arju studies\solaritis\HealthMonitor\HealthMonitor.DataAccess\bin\Debug\net5.0\HealthMonitor.DataAccess.runtimeconfig.dev.json
+D:\arju studies\solaritis\HealthMonitor\HealthMonitor.DataAccess\bin\Debug\net5.0\HealthMonitor.DataAccess.dll
+D:\arju studies\solaritis\HealthMonitor\HealthMonitor.DataAccess\bin\Debug\net5.0\ref\HealthMonitor.DataAccess.dll
+D:\arju studies\solaritis\HealthMonitor\HealthMonitor.DataAccess\bin\Debug\net5.0\HealthMonitor.DataAccess.pdb
+D:\arju studies\solaritis\HealthMonitor\HealthMonitor.DataAccess\obj\Debug\net5.0\HealthMonitor.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\arju studies\solaritis\HealthMonitor\HealthMonitor.DataAccess\obj\Debug\net5.0\HealthMonitor.DataAccess.AssemblyInfoInputs.cache
+D:\arju studies\solaritis\HealthMonitor\HealthMonitor.DataAccess\obj\Debug\net5.0\HealthMonitor.DataAccess.AssemblyInfo.cs
+D:\arju studies\solaritis\HealthMonitor\HealthMonitor.DataAccess\obj\Debug\net5.0\HealthMonitor.DataAccess.csproj.CoreCompileInputs.cache
+D:\arju studies\solaritis\HealthMonitor\HealthMonitor.DataAccess\obj\Debug\net5.0\HealthMonitor.DataAccess.dll
+D:\arju studies\solaritis\HealthMonitor\HealthMonitor.DataAccess\obj\Debug\net5.0\ref\HealthMonitor.DataAccess.dll
+D:\arju studies\solaritis\HealthMonitor\HealthMonitor.DataAccess\obj\Debug\net5.0\HealthMonitor.DataAccess.pdb
+D:\arju studies\solaritis\HealthMonitor\HealthMonitor.DataAccess\obj\Debug\net5.0\HealthMonitor.DataAccess.genruntimeconfig.cache
+D:\arju studies\solaritis\HealthMonitor\HealthMonitor.DataAccess\obj\Debug\net5.0\HealthMonitor.DataAccess.csprojAssemblyReference.cache
